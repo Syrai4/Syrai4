@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sy'rai 
 - 👀 I’m interested in full stack develpment
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any and everything. 
 - 📫 How to reach me on Linkedln, Sy'rai Pierre
 
